@@ -1,0 +1,13 @@
+.terraform
+terraform.tfs*
+.idea
+*.tfstate
+*.backup
+.git
+backend*.tf
+*.pdf
+* .pdf
+notes.txt
+.idea/
+creds.tf
+*.tfplan
